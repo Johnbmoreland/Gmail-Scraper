@@ -1,1 +1,3 @@
-# GmailScraper
+Gmail Scraper is an extremely Powerful data mining and harvesting software built by Project Management USA to gather valuable data from (your own) Gmail account! Collect Data in both .XLS and .CSV format of your choice and the results will report neatly into categorized rows of such data as but not limited to Contact Information, Fax Numbers, Phone Numbers, images, attachments, Email Address (both by the recipient and others even if CC or BCC) This is a must have utility for anyone with a Gmail account.
+This is a free version of Gmail Scraper. To get the commercial version, please visit:
+http://www.botguruz.com/products/gmail-extractor/
